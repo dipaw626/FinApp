@@ -1,10 +1,10 @@
-package com.mobile.myapplication
+package com.mobile.myapplication.home
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import androidx.fragment.app.Fragment
-import com.mobile.myapplication.home.HomeFragment
+import com.mobile.myapplication.R
 
 class HomeActivity : AppCompatActivity() {
 

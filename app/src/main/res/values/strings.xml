@@ -2,4 +2,12 @@
     <string name="app_name">My Application</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Prodi">
+        <item>--Pilih--</item>
+        <item>Manajemen Informatika</item>
+        <item>Teknik Informatika</item>
+        <item>Teknologi Informasi</item>
+        <item>Sistem informasi</item>
+        <item>Teknik Komputer</item>
+    </string-array>
 </resources>
